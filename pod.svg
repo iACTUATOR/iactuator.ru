@@ -16,10 +16,6 @@
    id="svg831"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="pod.svg">
-  <title>ЭМИИА</title>
- <a href="http://emiia.ru" target="_blank">
- <g id="logo">
-<rect width="78" height="14.93" fill="none"/> 
    <defs
      id="defs825" />
   <sodipodi:namedview
@@ -74,5 +70,9 @@
          style="stroke-width:0.26458332"><tspan
    style="fill:#4a99d9;fill-opacity:1"
    id="tspan1404">→ ПОДРОБНЕЕ</tspan> </tspan></text>
+       <title>ЭМИИА</title>
+ <a href="http://emiia.ru" target="_blank">
+ <g id="logo">
+<rect width="78" height="14.93" fill="none"/> 
   </g>
 </svg>
