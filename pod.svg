@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32.248161mm"
@@ -16,7 +17,7 @@
    id="svg831"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="pod.svg">
-   <defs
+  <defs
      id="defs825" />
   <sodipodi:namedview
      id="base"
@@ -57,18 +58,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-56.337152,-166.24925)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="56.173855"
-       y="169.39117"
-       id="text1386"><tspan
-         sodipodi:role="line"
-         id="tspan1384"
-         x="56.173855"
+    <a
+       id="a823"
+       xlink:title="ЭМИИА"
+       xlink:href="https://emiia.ru"
+       target="_blank">
+      <text
+         id="text1386"
          y="169.39117"
-         style="stroke-width:0.26458332"><tspan
-   style="fill:#4a99d9;fill-opacity:1"
-   id="tspan1404">→ ПОДРОБНЕЕ</tspan> </tspan></text>
+         x="56.173855"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="169.39117"
+           x="56.173855"
+           id="tspan1384"
+           sodipodi:role="line"><tspan
+             id="tspan1404"
+             style="fill:#4a99d9;fill-opacity:1">→ ПОДРОБНЕЕ</tspan></tspan></text>
+    </a>
   </g>
 </svg>
