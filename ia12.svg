@@ -28,7 +28,15 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12017" />
+     id="defs12017">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,16 +50,31 @@
      inkscape:window-height="745"
      id="namedview12015"
      showgrid="false"
-     inkscape:zoom="0.37109375"
-     inkscape:cx="512"
-     inkscape:cy="608.65782"
+     inkscape:zoom="0.26240291"
+     inkscape:cx="544.16076"
+     inkscape:cy="500.75689"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12013" />
   <path
-     d="m 593.35145,1623.1795 v -182.3023 c 0,-17.5882 -27.1104,-35.7212 -44.64616,-35.7212 h -187.514 v -21.5785 c 15.76498,-6.891 26.78777,-22.6215 26.78777,-40.9265 0,-24.6558 -19.99488,-44.6461 -44.64615,-44.6461 -24.65127,0 -44.64615,19.9903 -44.64615,44.6461 0,18.305 11.0228,34.0355 26.78778,40.9265 v 173.3798 c 0,17.5797 27.11039,26.7878 44.64656,26.7878 h 187.51359 v 39.4348 c -15.76826,6.8885 -26.78778,22.6186 -26.78778,40.9281 0,24.6603 19.98586,44.6466 44.64657,44.6466 24.65989,0 44.64656,-19.9859 44.64656,-44.6466 -4e-4,-18.3095 -11.02034,-34.0392 -26.78859,-40.9285 z M 343.33291,1364.9741 c -12.33015,0 -22.32307,-9.9929 -22.32307,-22.3231 0,-12.3301 9.99334,-22.323 22.32307,-22.323 12.32974,0 22.32308,9.9929 22.32308,22.323 0,12.3302 -9.99293,22.3231 -22.32308,22.3231 z m 26.78778,183.0538 c -8.76356,0 -8.9294,-9.0685 -8.9294,-17.8584 v -89.2923 H 539.7759 c 8.76397,0 17.85838,9.069 17.85838,17.8588 v 89.2919 z m 205.37237,138.4032 c -12.33014,0 -22.32307,-9.993 -22.32307,-22.3231 0,-12.3297 9.99293,-22.3235 22.32307,-22.3235 12.32975,0 22.32309,9.9938 22.32309,22.3235 0,12.3301 -9.99334,22.3231 -22.32309,22.3231 z"
-     id="path12011"
-     inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:0.04313726;stroke:none;stroke-width:0.01;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.01, 0.01000000000000000;stroke-dashoffset:0" />
+     id="path13365"
+     d="m 377.59065,1226.3992 h 189.82489 c 12.95274,0 24.56555,4.4129 33.49847,13.6807 9.3796,8.8266 13.84609,19.8591 13.84609,33.0985 v 233.8984 h -32.15861 v -102.3855 h -219.7502 v 102.3855 H 330.2461 v -233.8984 c 0,-13.2394 4.46648,-24.2719 13.84601,-33.0985 9.3796,-9.2678 20.5458,-13.6807 33.49854,-13.6807 z m -14.73936,146.0759 h 219.7502 v -99.2967 c 0,-3.9716 -1.78653,-7.5024 -4.46642,-10.5912 -3.12655,-2.6482 -6.69971,-4.4136 -11.1662,-4.4136 H 378.03732 c -4.01982,0 -8.03965,1.7654 -10.71954,4.4136 -3.12654,3.0888 -4.46649,6.6196 -4.46649,10.5912 z"
+     style="fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path13367"
+     d="m 600.59033,1560.7975 c 16.77287,0 30.19123,-13.7324 30.19123,-30.3062 0,-16.1001 -13.41836,-29.8325 -30.19123,-29.8325 -16.77288,0 -30.19122,13.7324 -30.19122,29.8325 0,16.5738 13.41834,30.3062 30.19122,30.3062 z"
+     style="fill:none;fill-opacity:0.04313725;stroke:#e9e9e9;stroke-width:22.60000229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path13369"
+     d="m 346.49328,1194.7061 v 84.2918"
+     style="fill:#000000;fill-opacity:0.04313725;stroke:#e9e9e9;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path13367-9"
+     d="m 346.49328,1194.7061 c 16.77287,0 30.19123,-13.7324 30.19123,-30.3061 0,-16.1001 -13.41836,-29.8325 -30.19123,-29.8325 -16.77289,0 -30.19122,13.7324 -30.19122,29.8325 0,16.5737 13.41833,30.3061 30.19122,30.3061 z"
+     style="fill:none;fill-opacity:1;stroke:#e9e9e9;stroke-width:23.60000038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>
