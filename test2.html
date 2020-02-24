@@ -163,13 +163,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif; }
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>EMIIA</title>
+  <title>Swiper demo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
-  <!-- Link CSS -->
+  <!-- Link Swiper's CSS -->
   <link rel="stylesheet" href="https://www.emiia.ai/slider.css">
 
-  <!-- styles -->
+  <!-- Demo styles -->
   <style>
     html, body {
       position: relative;
@@ -177,6 +177,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif; }
     }
     body {
       background: ;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
       font-size: 14px;
       color:#000;
       margin: 0;
@@ -191,7 +192,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif; }
     .swiper-slide {
       text-align: center;
       font-size: 18px;
-      background: ;
+      background: #fff;
 
       /* Center slide text vertically */
       display: -webkit-box;
@@ -229,17 +230,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif; }
           <img src="https://www.avidbots.com/wp-content/uploads/2019/11/neo1.7b2-o09-rgb-green-1000x1000.png">
         </div>
       </div>
-      <div class="swiper-slide">
-        <div class="swiper-zoom-container">
-          <img src="https://www.avidbots.com/wp-content/uploads/2019/11/neo1.7b2-o10-rgb-green-1000x1000.png">
-
-    
-        </div>
-      </div>
-    </div>
     </div>
 
-
+<br/>
+       <!-- Add Pagination -->
+    <div class="swiper-pagination swiper-pagination-black"></div>
+</div>
 
 
 
@@ -250,6 +246,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif; }
 
   <!-- Initialize Swiper -->
   <script>
+  
+  
+  
+  
     var swiper = new Swiper('.swiper-container', {
       spaceBetween: 30,
       centeredSlides: true,
@@ -257,18 +257,35 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif; }
         delay: 2500,
         disableOnInteraction: false,
       },
+      
+      
+      
+      
+            spaceBetween: 30,
+      effect: 'fade',
       pagination: {
         el: '.swiper-pagination',
         clickable: true,
-         },
-       navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev', 
       },
+      
+      
+      
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      
+      
     });
   </script>
 </body>
 </html>
+
+
 
 
 
